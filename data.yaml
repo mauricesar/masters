@@ -1,0 +1,5 @@
+train: "/content/drive/MyDrive/final_code/dataset/train"
+val: "/content/drive/MyDrive/final_code/dataset/test"
+
+nc: 1  # number of classes
+names: ['Nodule']
